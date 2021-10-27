@@ -60,5 +60,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    //Seguir a l'apartat Save the full-size photo:
+    //https://developer.android.com/training/camera/photobasics#TaskPath
 
 }
